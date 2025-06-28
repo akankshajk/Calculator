@@ -3,10 +3,10 @@
 # Simple Calculator Script
 
 echo "Enter first number:"
-read num1
+read num2
 
 echo "Enter second number:"
-read num1
+read num5
 
 echo "Choose operation: +  -  *  /"
 read op
